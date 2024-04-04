@@ -1,7 +1,8 @@
 #include <stdio.h>
 
+// Exercício 14 - Declara uma matriz de inteiros com 3 linhas e 2 colunas
+
 int main() {
-    // Declara uma matriz de inteiros com 3 linhas e 2 colunas
     int matriz[3][2] = {
         {1, 2},
         {3, 4},

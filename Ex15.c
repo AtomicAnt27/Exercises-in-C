@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Exercício 15 - Imprime as diagonais da matriz 5x5
+
 int main() {
     int matriz[5][5] = {
         {1, 2, 3, 4, 5},

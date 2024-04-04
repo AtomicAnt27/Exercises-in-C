@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Exercício 16 - Pega idade e imprime
+
 int main(){
     int idade;
     printf("Digite a sua idade: ");

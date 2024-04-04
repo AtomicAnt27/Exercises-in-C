@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Exercício 11 - Cálculo de em quanto tempo um população passará outra
+
 int main()
 {
     float pop_A = 80000, pop_B = 200000;

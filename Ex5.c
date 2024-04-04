@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Exercício 5 - Organiza os valores do vetor
+
 int main(){
     int vetor[] = {6,8,1,5,9,2,7,3,4};
     int length = sizeof(vetor) / sizeof(vetor[0]);

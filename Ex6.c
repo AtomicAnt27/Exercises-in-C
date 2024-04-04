@@ -1,7 +1,8 @@
 #include <stdio.h>
 
+// Exercício 6 - Imprime Maior, Menor e a Média dos valores do vetor
+
 int main() {
-    // Imprime Maior, Menor e a Média dos valores do vetor
     int vetor[10];
     int length = sizeof(vetor) / sizeof(vetor[0]);
     float media, soma = 0;

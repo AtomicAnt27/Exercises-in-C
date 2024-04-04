@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Exercício 10 - Checa se o valor está entre 0 e 10
+
 int main()
 {
     int nota;

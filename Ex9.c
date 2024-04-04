@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Exercício 9 - Inflação de um produto
+
 int main()
 {
     int valor;

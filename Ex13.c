@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Exercício 13 - Sequência de Fibonacci
+
 int main()
 {
     int size, i, a = 0, b = 0, c = 1;

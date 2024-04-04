@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Exercício 12 - Cálculo de potenciação sem a função matemática
+
 int main()
 {
     int base, exp, result = 1, i;

@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Exercício 7 - Imprime a média dos valores
+
 int main() {
     int notas[5];
     int length = sizeof(notas) / sizeof(notas[0]);
