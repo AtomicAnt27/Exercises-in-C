@@ -9,7 +9,7 @@ int main() {
         {6, 8, 6, 6, 6},
         {5, 6, 3, 2, 1},
         {8, 9, 7, 0, 9}};
-    int i, j, soma;
+    int i, j, soma = 0;
     
     printf("\nMatriz 5x5 fornecida: \n");
     for(i=0; i<5; i++){
